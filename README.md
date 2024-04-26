@@ -1,4 +1,4 @@
-# Quiz 4.2.a: Packet sniffing using Scapy
+# Quiz 4: Packet sniffing using Scapy
 
 Scapy is a Python-based interactive packet manipulation program and library. It can forge or decode packets of a wide number of protocols, send them on the wire, capture them, store or read them using PCAP files, match requests and replies, and much more. It is designed to allow fast packet prototyping by using default values that work.
 
